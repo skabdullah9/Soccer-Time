@@ -46,7 +46,7 @@ export default {
   tailwindcss: {
     config: {
       /* Extend the Tailwind config here */
-      mode: 'jit',
+
       purge: ['./components/*.vue', './pages/*.vue', './layouts/*.vue'],
       variants: {
         extend: {

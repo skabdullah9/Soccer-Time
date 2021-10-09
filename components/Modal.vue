@@ -18,6 +18,7 @@
         md:px-10
         py-4
         rounded-lg
+        h-2/3
         md:h-3/4
         w-11/12
         max-w-screen-xl
@@ -113,7 +114,7 @@
           allowfullscreen
           allow="autoplay; fullscreen"
           frameborder="0"
-          class="w-full lg:w-3/4 h-full md:h-3/4 rounded-2xl mx-auto"
+          class="w-full lg:w-3/4 h-2/3 md:h-3/4 rounded-2xl mx-auto"
         ></iframe>
       </div>
     </div>
